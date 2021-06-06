@@ -1,0 +1,4262 @@
+{
+  " _id " : " doener#6969 " ,
+  " Mettre à jour " : " doener#6969 " ,
+  " créé " : " 2021-03-07T16:33:28.462Z " ,
+  " mis à jour " : " 2021-05-20T14:57:29.907Z " ,
+  " rvn " : 0 ,
+  " wipeNumber " : 1 ,
+  " accountId " : " " ,
+  " profileId " : " common_core " ,
+  " version " : " doener#6969 " ,
+  " éléments " : {
+    " Devise : MtxPurchased " : {
+      " attributs " : {
+        " plate-forme " : " EpicPC "
+      },
+      " quantité " : 100000 ,
+      " templateId " : " Currency:MtxPurchased "
+    },
+    " HomebaseBannerIcon:BRS16_Basketball_2021_G89SL " : {
+      " templateId " : " HomebaseBannerIcon:BRS16_Basketball_2021_G89SL " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:Winter2018Wave30Complete " : {
+      " templateId " : " HomebaseBannerIcon:Winter2018Wave30Complete " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:Winter2018Tower " : {
+      " templateId " : " HomebaseBannerIcon:Winter2018Tower " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:Winter2018SnowmanBuried " : {
+      " templateId " : " HomebaseBannerIcon:Winter2018SnowmanBuried " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:Winter2018Krampus " : {
+      " templateId " : " HomebaseBannerIcon:Winter2018Krampus " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:Winter2018IcicleCluster " : {
+      " templateId " : " HomebaseBannerIcon:Winter2018IcicleCluster " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:Winter2018GingerbreadMan " : {
+      " templateId " : " HomebaseBannerIcon:Winter2018GingerbreadMan " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:Winter2018CrownFlame " : {
+      " templateId " : " HomebaseBannerIcon:Winter2018CrownFlame " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:Winter2018Cooker " : {
+      " templateId " : " HomebaseBannerIcon:Winter2018Cooker " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:Winter2018BearTrapFoot " : {
+      " templateId " : " HomebaseBannerIcon:Winter2018BearTrapFoot " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:WargamesTprifts " : {
+      " templateId " : " HomebaseBannerIcon:WargamesTprifts " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:WargamesTornado " : {
+      " templateId " : " HomebaseBannerIcon:WargamesTornado " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:WargamesTiki " : {
+      " templateId " : " HomebaseBannerIcon:WargamesTiki " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:WargamesTelebomb " : {
+      " templateId " : " HomebaseBannerIcon:WargamesTelebomb " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:WargamesSaucer " : {
+      " templateId " : " HomebaseBannerIcon:WargamesSaucer " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:WargamesRiotcity " : {
+      " templateId " : " HomebaseBannerIcon:WargamesRiotcity " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:WargamesPods " : {
+      " templateId " : " HomebaseBannerIcon:WargamesPods " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:WargamesOverload " : {
+      " templateId " : " HomebaseBannerIcon:WargamesOverload " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:WargamesOffspring " : {
+      " templateId " : " HomebaseBannerIcon:WargamesOffspring " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:WargamesMeteor " : {
+      " templateId " : " HomebaseBannerIcon:WargamesMeteor " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:WargamesLava " : {
+      " templateId " : " HomebaseBannerIcon:WargamesLava " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:WargamesGenerators " : {
+      " templateId " : " HomebaseBannerIcon:WargamesGenerators " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:WargamesAnomaly " : {
+      " templateId " : " HomebaseBannerIcon:WargamesAnomaly " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:SurvivalBannerStorm2018Med " : {
+      " templateId " : " HomebaseBannerIcon:SurvivalBannerStorm2018Med " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:SurvivalBannerStorm2018Hard " : {
+      " templateId " : " HomebaseBannerIcon:SurvivalBannerStorm2018Hard " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:SurvivalBannerStorm2018Easy " : {
+      " templateId " : " HomebaseBannerIcon:SurvivalBannerStorm2018Easy " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:SurvivalBannerStonewoodComplete " : {
+      " templateId " : " HomebaseBannerIcon:SurvivalBannerStonewoodComplete " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:SurvivalBannerPlankertonComplete " : {
+      " templateId " : " HomebaseBannerIcon:SurvivalBannerPlankertonComplete " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:SurvivalBannerHolidayMed " : {
+      " templateId " : " HomebaseBannerIcon:SurvivalBannerHolidayMed " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:SurvivalBannerHolidayHard " : {
+      " templateId " : " HomebaseBannerIcon:SurvivalBannerHolidayHard " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:SurvivalBannerHolidayEasy " : {
+      " templateId " : " HomebaseBannerIcon:SurvivalBannerHolidayEasy " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:SurvivalBannerCannyValleyComplete " : {
+      " templateId " : " HomebaseBannerIcon:SurvivalBannerCannyValleyComplete " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:Storm " : {
+      " templateId " : " HomebaseBannerIcon: Storm " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StarlightBanner6 " : {
+      " templateId " : " HomebaseBannerIcon:StarlightBanner6 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StarlightBanner5 " : {
+      " templateId " : " HomebaseBannerIcon:StarlightBanner5 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StarlightBanner4 " : {
+      " templateId " : " HomebaseBannerIcon:StarlightBanner4 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StarlightBanner3 " : {
+      " templateId " : " HomebaseBannerIcon:StarlightBanner3 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StarlightBanner2 " : {
+      " templateId " : " HomebaseBannerIcon:StarlightBanner2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StarlightBanner1 " : {
+      " templateId " : " HomebaseBannerIcon:StarlightBanner1 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner9 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner9 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner8 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner8 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner7 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner7 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner6 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner6 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner5 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner5 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner4 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner4 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner31 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner31 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner30 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner30 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner3 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner3 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner29 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner29 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner28 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner28 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner27 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner27 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner26 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner26 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner25 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner25 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner24 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner24 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner23 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner23 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner22 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner22 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner21 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner21 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner20 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner20 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner2 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner19 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner19 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner18 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner18 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner17 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner17 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner16 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner16 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner15 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner15 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner14 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner14 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner13 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner13 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner12 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner12 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner11 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner11 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner10 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner10 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:StandardBanner1 " : {
+      " templateId " : " HomebaseBannerIcon:StandardBanner1 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:S8StormKing " : {
+      " templateId " : " HomebaseBannerIcon:S8StormKing " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:S11FNCS " : {
+      " templateId " : " HomebaseBannerIcon:S11FNCS " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner9 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner9 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner8 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner8 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner78 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner78 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner77 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner77 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner76 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner76 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner75 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner75 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner74 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner74 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner73 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner73 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner72 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner72 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner71 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner71 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner70 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner70 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner7 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner7 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner69 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner69 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner68 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner68 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner67 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner67 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner66 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner66 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner65 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner65 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner64 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner64 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner63 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner63 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner62 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner62 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner61 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner61 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner60 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner60 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner6 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner6 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner59 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner59 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner58 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner58 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner57 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner57 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner56 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner56 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner55 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner55 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner54 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner54 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner53 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner53 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner52 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner52 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner51 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner51 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner50 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner50 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner5 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner5 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner49 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner49 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner48 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner48 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner47 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner47 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner46 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner46 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner45 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner45 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner44 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner44 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner43 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner43 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner42 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner42 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner41 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner41 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner40 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner40 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner4 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner4 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner39 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner39 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner38 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner38 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner37 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner37 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner36 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner36 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner35 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner35 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner34 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner34 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner33 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner33 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner32 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner32 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner31 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner31 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner30 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner30 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner3 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner3 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner29 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner29 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner27 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner27 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner26 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner26 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner25 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner25 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner24 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner24 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner23 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner23 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner22 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner22 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner21 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner21 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner20 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner20 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner2 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner19 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner19 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner18 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner18 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner17 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner17 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner16 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner16 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner15 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner15 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner14 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner14 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner13 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner13 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner12 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner12 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner11 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner11 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner10 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner10 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OtherBanner1 " : {
+      " templateId " : " HomebaseBannerIcon:OtherBanner1 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OT9Banner " : {
+      " templateId " : " HomebaseBannerIcon:OT9Banner " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OT8Banner " : {
+      " templateId " : " HomebaseBannerIcon:OT8Banner " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OT7Banner " : {
+      " templateId " : " HomebaseBannerIcon:OT7Banner " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OT6Banner " : {
+      " templateId " : " HomebaseBannerIcon:OT6Banner " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OT5Banner " : {
+      " templateId " : " HomebaseBannerIcon:OT5Banner " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OT4Banner " : {
+      " templateId " : " HomebaseBannerIcon:OT4Banner " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OT3Banner " : {
+      " templateId " : " HomebaseBannerIcon:OT3Banner " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OT2Banner " : {
+      " templateId " : " HomebaseBannerIcon:OT2Banner " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OT1Banner " : {
+      " templateId " : " HomebaseBannerIcon:OT1Banner " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OT11Banner " : {
+      " templateId " : " HomebaseBannerIcon:OT11Banner " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:OT10Banner " : {
+      " templateId " : " HomebaseBannerIcon:OT10Banner " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:NewsletterBanner " : {
+      " templateId " : " HomebaseBannerIcon:NewsletterBanner " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:MaydayIconNormal " : {
+      " templateId " : " HomebaseBannerIcon:MaydayIconNormal " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:MaydayIconHard " : {
+      " templateId " : " HomebaseBannerIcon:MaydayIconHard " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner9 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner9 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner8 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner8 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner7 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner7 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner6 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner6 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner58 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner58 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner57 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner57 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner56 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner56 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner55 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner55 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner54 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner54 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner53 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner53 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner52 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner52 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner51 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner51 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner50 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner50 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner5 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner5 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner49 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner49 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner48 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner48 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner47 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner47 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner46 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner46 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner45 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner45 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner44 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner44 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner43 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner43 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner42 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner42 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner41 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner41 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner40 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner40 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner4 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner4 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner39 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner39 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner38 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner38 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner37 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner37 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner36 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner36 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner35 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner35 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner34 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner34 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner33 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner33 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner32 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner32 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner31 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner31 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner30 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner30 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner3 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner3 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner29 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner29 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner28 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner28 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner27 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner27 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner26 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner26 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner25 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner25 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner24 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner24 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner23 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner23 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner22 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner22 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner21 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner21 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner20 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner20 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner2 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner19 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner19 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner18 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner18 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner17 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner17 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner16 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner16 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner15 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner15 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner14 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner14 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner13 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner13 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner12 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner12 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner11 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner11 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner10 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner10 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:InfluencerBanner1 " : {
+      " templateId " : " HomebaseBannerIcon:InfluencerBanner1 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:HordeBanner2018TwinePeaks " : {
+      " templateId " : " HomebaseBannerIcon:HordeBanner2018TwinePeaks " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:HordeBanner2018Stonewood " : {
+      " templateId " : " HomebaseBannerIcon:HordeBanner2018Stonewood " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:HordeBanner2018Plankerton " : {
+      " templateId " : " HomebaseBannerIcon:HordeBanner2018Plankerton " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:HordeBanner2018CannyValley " : {
+      " templateId " : " HomebaseBannerIcon:HordeBanner2018CannyValley " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:GalileoD " : {
+      " templateId " : " HomebaseBannerIcon:GalileoD " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:GalileoC " : {
+      " templateId " : " HomebaseBannerIcon:GalileoC " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:GalileoB " : {
+      " templateId " : " HomebaseBannerIcon:GalileoB " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:GalileoA " : {
+      " templateId " : " HomebaseBannerIcon:GalileoA " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier5Banner5 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier5Banner5 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier5Banner4 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier5Banner4 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier5Banner3 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier5Banner3 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier5Banner2 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier5Banner2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier5Banner1 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier5Banner1 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier4Banner5 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier4Banner5 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier4Banner4 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier4Banner4 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier4Banner3 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier4Banner3 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier4Banner2 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier4Banner2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier4Banner1 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier4Banner1 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier3Banner5 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier3Banner5 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier3Banner4 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier3Banner4 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier3Banner3 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier3Banner3 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier3Banner2 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier3Banner2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier3Banner1 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier3Banner1 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier2Banner6 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier2Banner6 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier2Banner5 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier2Banner5 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier2Banner4 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier2Banner4 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier2Banner3 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier2Banner3 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier2Banner2 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier2Banner2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier2Banner1 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier2Banner1 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier1Banner4 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier1Banner4 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier1Banner3 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier1Banner3 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier1Banner2 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier1Banner2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:FounderTier1Banner1 " : {
+      " templateId " : " HomebaseBannerIcon:FounderTier1Banner1 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:EnduranceWave30Theater04 " : {
+      " templateId " : " HomebaseBannerIcon:EnduranceWave30Theater04 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:EnduranceWave30Theater03 " : {
+      " templateId " : " HomebaseBannerIcon:EnduranceWave30Theater03 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:EnduranceWave30Theater02 " : {
+      " templateId " : " HomebaseBannerIcon:EnduranceWave30Theater02 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:EnduranceWave30Theater01 " : {
+      " templateId " : " HomebaseBannerIcon:EnduranceWave30Theater01 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRWorldCup2019 " : {
+      " templateId " : " HomebaseBannerIcon:BRWorldCup2019 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSkirmishRiftRaiders " : {
+      " templateId " : " HomebaseBannerIcon:BRSkirmishRiftRaiders " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSkirmishLuckyLlamas " : {
+      " templateId " : " HomebaseBannerIcon:BRSkirmishLuckyLlamas " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSkirmishFortKnights " : {
+      " templateId " : " HomebaseBannerIcon:BRSkirmishFortKnights " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSkirmishDustyDogs " : {
+      " templateId " : " HomebaseBannerIcon:BRSkirmishDustyDogs " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSkirmishBushBandits " : {
+      " templateId " : " HomebaseBannerIcon:BRSkirmishBushBandits " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07Wreath " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07Wreath " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07Trash " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07Trash " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07Tartan " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07Tartan " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07Sun " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07Sun " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07Shackle " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07Shackle " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07SeasonLevel100 " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07SeasonLevel100 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07Plane " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07Plane " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07Octopus " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07Octopus " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07MerryFace " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07MerryFace " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07Meat " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07Meat " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07InfinityBlade " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07InfinityBlade " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07IceNinjaStar " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07IceNinjaStar " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07CumulativeLS8 " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07CumulativeLS8 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07CumulativeLS6 " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07CumulativeLS6 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07CumulativeLS4 " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07CumulativeLS4 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07CumulativeLS2 " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07CumulativeLS2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07CumulativeLS10 " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07CumulativeLS10 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07CompletionSgtWinter " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07CompletionSgtWinter " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07CompletionSeason7 " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07CompletionSeason7 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07CompletionNeonCat " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07CompletionNeonCat " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07CompletionIceKing " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07CompletionIceKing " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason07CompletionArcticSniper " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason07CompletionArcticSniper " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06ZigZag " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06ZigZag " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+      },
+    " HomebaseBannerIcon:BRSeason06Werewolf " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06Werewolf " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06Tattered " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06Tattered " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06SkullTrooper " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06SkullTrooper " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06SeasonLevel100 " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06SeasonLevel100 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06RobotShoulderLogo " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06RobotShoulderLogo " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06Rift " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06Rift " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06PolkaDots " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06PolkaDots " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06PickaxeBR " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06PickaxeBR " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06Phantom " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06Phantom " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06LlamaDJ " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06LlamaDJ " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06HouseFly " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06HouseFly " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06HandHorns " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06HandHorns " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06Gravestone " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06Gravestone " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06FloatingIsland " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06FloatingIsland " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06Dice " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06Dice " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06DiagonalStripes " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06DiagonalStripes " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06CowboyHat " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06CowboyHat " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06CarbonFiber " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06CarbonFiber " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06Campfire " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06Campfire " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason06Bat " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason06Bat " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05VikingShip " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05VikingShip " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05TicTacToe " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05TicTacToe " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05SpiderBadass " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05SpiderBadass " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05ShoppingCart " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05ShoppingCart " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05ScubaGear " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05ScubaGear " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05Ribbon " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05Ribbon " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05RacingCheckers " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05RacingCheckers " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05Palms " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05Palms " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05Kitsune " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05Kitsune " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05IceCreamTruck " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05IceCreamTruck " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05Golf " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05Golf " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05Glyph " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05Glyph " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05FlowyHat " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05FlowyHat " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05Dolphin " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05Dolphin " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05Dinosaur " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05Dinosaur " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05Crown " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05Crown " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05Cobra " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05Cobra " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05Jumelles " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05Jumelles " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05Barrel " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05Barrel " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason05Balloon " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason05Balloon " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04VillainEmblem " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04VillainEmblem " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04Teef " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04Teef " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04SprayCan " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04SprayCan " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04SeaSerpent " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04SeaSerpent " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04Pencil " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04Pencil " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04Only90sKids " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04Only90sKids " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04HeroEmblem " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04HeroEmblem " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04Goo " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04Goo " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04Fish " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04Fish " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04FilmCamera " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04FilmCamera " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04Fence " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04Fence " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04Duck " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04Duck " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04DogBowl " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04DogBowl " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04Chains " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04Chains " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04Bow " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04Bow " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason04Blitz " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason04Blitz " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Worm " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Worm " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Wolf " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Wolf " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Wing " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Wing " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Whale " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Whale " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03TopHat " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03TopHat " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03TeddyBear " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03TeddyBear " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Sun " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Sun " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Snake " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Snake " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03ShootingStar " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03ShootingStar " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Shark " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Shark " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Paw " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Paw " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Lightning " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Lightning " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Lantern " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Lantern " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03HappyCloud " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03HappyCloud " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Flail " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Flail " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Falcon " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Falcon " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Egg " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Egg " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Eagle " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Eagle " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Donut " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Donut " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03DogCollar " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03DogCollar " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03DinosaurSkull " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03DinosaurSkull " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03DeadFish " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03DeadFish " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03CrescentMoon " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03CrescentMoon " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Crab " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Crab " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Poulet " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Poulet " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Poussin " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Chick " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason03Bee " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason03Bee " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02Vulture " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02Vulture " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02Tank " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02Tank " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02Shark " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02Shark " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02Sawhorse " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02Sawhorse " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02Salt " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02Salt " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02Planet " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02Planet " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02MonsterTruck " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02MonsterTruck " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02Log " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02Log " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02LionHerald " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02LionHerald " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02IceCream " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02IceCream " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02GasMask " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02GasMask " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02Dragon " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02Dragon " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02Crosshair " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02Crosshair " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02CatSoldier " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02CatSoldier " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02Cake " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02Cake " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02Bush " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02Bush " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason02Bowling " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason02Bowling " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRSeason01 " : {
+      " templateId " : " HomebaseBannerIcon:BRSeason01 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9X " : {
+      " templateId " : " HomebaseBannerIcon:BRS9X " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9WorldCup2019 " : {
+      " templateId " : " HomebaseBannerIcon:BRS9WorldCup2019 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Violin " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Violin " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Target " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Target " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Spade " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Spade " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Roar " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Roar " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Plane " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Plane " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Paintbrush " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Paintbrush " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Lvl100 " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Lvl100 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Doggus " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Doggus " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Cone " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Cone " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9CompletionFraise " : {
+      " templateId " : " HomebaseBannerIcon:BRS9CompletionStrawberry " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9CompletionRooster " : {
+      " templateId " : " HomebaseBannerIcon:BRS9CompletionRooster " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9CompletionBountyHunter " : {
+      " templateId " : " HomebaseBannerIcon:BRS9CompletionBountyHunter " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9CompletionBattleSuit " : {
+      " templateId " : " HomebaseBannerIcon:BRS9CompletionBattleSuit " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Completion " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Completion " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Chair " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Chair " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Cattus " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Cattus " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Bone " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Bone " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Blast " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Blast " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS9Bacon " : {
+      " templateId " : " HomebaseBannerIcon:BRS9Bacon " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS914DaysRubberDucky " : {
+      " templateId " : " HomebaseBannerIcon:BRS914DaysRubberDucky " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS914DaysGrillin " : {
+      " templateId " : " HomebaseBannerIcon:BRS914DaysGrillin " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8Ziggurat " : {
+      " templateId " : " HomebaseBannerIcon:BRS8Ziggurat " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8WhaleTail " : {
+      " templateId " : " HomebaseBannerIcon:BRS8WhaleTail " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8TreasureChest " : {
+      " templateId " : " HomebaseBannerIcon:BRS8TreasureChest " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8TigerStripes " : {
+      " templateId " : " HomebaseBannerIcon:BRS8TigerStripes " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8Roach " : {
+      " templateId " : " HomebaseBannerIcon:BRS8Roach " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8Ananas " : {
+      " templateId " : " HomebaseBannerIcon:BRS8Ananas " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8Level100 " : {
+      " templateId " : " HomebaseBannerIcon:BRS8Level100 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8JollyRoger " : {
+      " templateId " : " HomebaseBannerIcon:BRS8JollyRoger " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8Méduse " : {
+      " templateId " : " HomebaseBannerIcon:BRS8Jellyfish " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8Foxhead " : {
+      " templateId " : " HomebaseBannerIcon:BRS8Foxhead " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8FireSymbol " : {
+      " templateId " : " HomebaseBannerIcon:BRS8FireSymbol " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8CumulativeSeason8 " : {
+      " templateId " : " HomebaseBannerIcon:BRS8CumulativeSeason8 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8CumulativeLS8 " : {
+      " templateId " : " HomebaseBannerIcon:BRS8CumulativeLS8 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8CumulativeLS6 " : {
+      " templateId " : " HomebaseBannerIcon:BRS8CumulativeLS6 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8CumulativeLS4 " : {
+      " templateId " : " HomebaseBannerIcon:BRS8CumulativeLS4 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8CumulativeLS2 " : {
+      " templateId " : " HomebaseBannerIcon:BRS8CumulativeLS2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8CumulativeLS10 " : {
+      " templateId " : " HomebaseBannerIcon:BRS8CumulativeLS10 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8CrystalLlama " : {
+      " templateId " : " HomebaseBannerIcon:BRS8CrystalLlama " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8CompletionShiny " : {
+      " templateId " : " HomebaseBannerIcon:BRS8CompletionShiny " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8CompletionPirate " : {
+      " templateId " : " HomebaseBannerIcon:BRS8CompletionPirate " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8CompletionDragonNinja " : {
+      " templateId " : " HomebaseBannerIcon:BRS8CompletionDragonNinja " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8Compass " : {
+      " templateId " : " HomebaseBannerIcon:BRS8Compass " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8Coconuts " : {
+      " templateId " : " HomebaseBannerIcon:BRS8Coconuts " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8AshtonChicago " : {
+      " templateId " : " HomebaseBannerIcon:BRS8AshtonChicago " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS8AshtonBoardwalk " : {
+      " templateId " : " HomebaseBannerIcon:BRS8AshtonBoardwalk " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS7Overtime " : {
+      " templateId " : " HomebaseBannerIcon:BRS7Overtime " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_Scooter " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_Scooter " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_PSPlusPack11 " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_PSPlusPack11 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_Pedestal " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_Pedestal " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_Kettlebell " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_Kettlebell " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_Infinity " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_Infinity " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_HighTowerWasabi " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_HighTowerWasabi " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_HighTowerTomato " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_HighTowerTomato " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_HighTowerTapas " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_HighTowerTapas " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_HighTowerSquash " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_HighTowerSquash " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_HighTowerRadish " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_HighTowerRadish " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_HighTowerMango " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_HighTowerMango " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_HighTowerHoneyDew " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_HighTowerHoneyDew " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_HighTowerGrape " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_HighTowerGrape " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_HighTowerDate " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_HighTowerDate " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS14_Clover " : {
+      " templateId " : " HomebaseBannerIcon:BRS14_Clover " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS13_Yonezu " : {
+      " templateId " : " HomebaseBannerIcon:BRS13_Yonezu " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS13_TacticalScuba " : {
+      " templateId " : " HomebaseBannerIcon:BRS13_TacticalScuba " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS13_SpaceWanderer " : {
+      " templateId " : " HomebaseBannerIcon:BRS13_SpaceWanderer " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS13_Sandcastle " : {
+      " templateId " : " HomebaseBannerIcon:BRS13_Sandcastle " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS13_Racer-Zero " : {
+      " templateId " : " HomebaseBannerIcon:BRS13_Racer-Zero " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS13_ProfessorPup " : {
+      " templateId " : " HomebaseBannerIcon:BRS13_ProfessorPup " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS13_OceanRider " : {
+      " templateId " : " HomebaseBannerIcon:BRS13_OceanRider " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS13_MechanicalEngineer " : {
+      " templateId " : " HomebaseBannerIcon:BRS13_MechanicalEngineer " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS13_BlackKnight " : {
+      " templateId " : " HomebaseBannerIcon:BRS13_BlackKnight " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_WingedCritter " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_WingedCritter " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_Skull " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_Skull " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_Roses " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_Roses " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_Prestige5 " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_Prestige5 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_Prestige4 " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_Prestige4 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_Prestige3 " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_Prestige3 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_Prestige2 " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_Prestige2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_Prestige1 " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_Prestige1 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_Midas " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_Midas " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_Kitty " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_Kitty " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_Grenade " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_Grenade " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_Donut " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_Donut " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_CycloneA " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_CycloneA " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_Cowboy " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_Cowboy " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_BrazilToucan " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_BrazilToucan " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_BrazilDrum " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_BrazilDrum " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS12_BananaAgent " : {
+      " templateId " : " HomebaseBannerIcon:BRS12_BananaAgent " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11_War " : {
+      " templateId " : " HomebaseBannerIcon:BRS11_War " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11_Prestige5 " : {
+      " templateId " : " HomebaseBannerIcon:BRS11_Prestige5 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11_Prestige4 " : {
+      " templateId " : " HomebaseBannerIcon:BRS11_Prestige4 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11_Prestige3 " : {
+      " templateId " : " HomebaseBannerIcon:BRS11_Prestige3 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11_Prestige2 " : {
+      " templateId " : " HomebaseBannerIcon:BRS11_Prestige2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11_Prestige1 " : {
+      " templateId " : " HomebaseBannerIcon:BRS11_Prestige1 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11_Love " : {
+      " templateId " : " HomebaseBannerIcon:BRS11_Love " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11XmasSweaterB " : {
+      " templateId " : " HomebaseBannerIcon:BRS11XmasSweaterB " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11WaterWaves " : {
+      " templateId " : " HomebaseBannerIcon:BRS11WaterWaves " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11Turtle " : {
+      " templateId " : " HomebaseBannerIcon:BRS11Turtle " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11TreeSymbol " : {
+      " templateId " : " HomebaseBannerIcon:BRS11TreeSymbol " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11ToxicMask " : {
+      " templateId " : " HomebaseBannerIcon:BRS11ToxicMask " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11ToadStool " : {
+      " templateId " : " HomebaseBannerIcon:BRS11ToadStool " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11SockMonkey " : {
+      " templateId " : " HomebaseBannerIcon:BRS11SockMonkey " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11Smiley " : {
+      " templateId " : " HomebaseBannerIcon:BRS11Smiley " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11Sigil " : {
+      " templateId " : " HomebaseBannerIcon:BRS11Sigil " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11Shark " : {
+      " templateId " : " HomebaseBannerIcon:BRS11Shark " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11PawMark " : {
+      " templateId " : " HomebaseBannerIcon:BRS11PawMark " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11Llama " : {
+      " templateId " : " HomebaseBannerIcon:BRS11Llama " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11Flake " : {
+      " templateId " : " HomebaseBannerIcon:BRS11Flake " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11FishHook " : {
+      " templateId " : " HomebaseBannerIcon:BRS11FishHook " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11Fish " : {
+      " templateId " : " HomebaseBannerIcon:BRS11Fish " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11EightBall " : {
+      " templateId " : " HomebaseBannerIcon:BRS11EightBall " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11DiamondShapes " : {
+      " templateId " : " HomebaseBannerIcon:BRS11DiamondShapes " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS11Bolts " : {
+      " templateId " : " HomebaseBannerIcon:BRS11Bolts " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10WesternHats " : {
+      " templateId " : " HomebaseBannerIcon:BRS10WesternHats " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10TechOpsBlue " : {
+      " templateId " : " HomebaseBannerIcon:BRS10TechOpsBlue " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10Shades " : {
+      " templateId " : " HomebaseBannerIcon:BRS10Shades " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10Rift " : {
+      " templateId " : " HomebaseBannerIcon:BRS10Rift " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10MedievalKnight " : {
+      " templateId " : " HomebaseBannerIcon:BRS10MedievalKnight " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10Level100 " : {
+      " templateId " : " HomebaseBannerIcon:BRS10Level100 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10KevinCube " : {
+      " templateId " : " HomebaseBannerIcon:BRS10KevinCube " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10Grid " : {
+      " templateId " : " HomebaseBannerIcon:BRS10Grid " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10DragonEgg " : {
+      " templateId " : " HomebaseBannerIcon:BRS10DragonEgg " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10DoublePump " : {
+      " templateId " : " HomebaseBannerIcon:BRS10DoublePump " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10BriteBomber " : {
+      " templateId " : " HomebaseBannerIcon:BRS10BriteBomber " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10BoomBox " : {
+      " templateId " : " HomebaseBannerIcon:BRS10BoomBox " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10BlackMondayTeaser " : {
+      " templateId " : " HomebaseBannerIcon:BRS10BlackMondayTeaser " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10BlackMonday " : {
+      " templateId " : " HomebaseBannerIcon:BRS10BlackMonday " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10BarbequeLarry " : {
+      " templateId " : " HomebaseBannerIcon:BRS10BarbequeLarry " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS10Astronaut " : {
+      " templateId " : " HomebaseBannerIcon:BRS10Astronaut " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS1080sLlama " : {
+      " templateId " : " HomebaseBannerIcon:BRS1080sLlama " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRFestivus " : {
+      " templateId " : " HomebaseBannerIcon:BRFestivus " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRCompletionIceQueen " : {
+      " templateId " : " HomebaseBannerIcon:BRCompletionIceQueen " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRCompletionCupidDark " : {
+      " templateId " : " HomebaseBannerIcon:BRCompletionCupidDark " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BR14DaysSnowGlobe " : {
+      " templateId " : " HomebaseBannerIcon:BR14DaysSnowGlobe " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BR14DaysRibbon " : {
+      " templateId " : " HomebaseBannerIcon:BR14DaysRibbon " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BannerCupF " : {
+      " templateId " : " HomebaseBannerIcon:BannerCupF " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BannerCupE " : {
+      " templateId " : " HomebaseBannerIcon:BannerCupE " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BannerCupD " : {
+      " templateId " : " HomebaseBannerIcon:BannerCupD " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BannerCupC " : {
+      " templateId " : " HomebaseBannerIcon:BannerCupC " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BannerCupB " : {
+      " templateId " : " HomebaseBannerIcon:BannerCupB " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BannerCupA " : {
+      " templateId " : " HomebaseBannerIcon:BannerCupA " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:AchievementWorldExplorer " : {
+      " templateId " : " HomebaseBannerIcon:AchievementWorldExplorer " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:AchievementUnspeakableHorrors " : {
+      " templateId " : " HomebaseBannerIcon:AchievementUnspeakableHorrors " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:AchievementTalentedBuilder " : {
+      " templateId " : " HomebaseBannerIcon:AchievementTalentedBuilder " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:AchievementPlaysWellWithOthers " : {
+      " templateId " : " HomebaseBannerIcon:AchievementPlaysWellWithOthers " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:AchievementLootLegend " : {
+      " templateId " : " HomebaseBannerIcon:AchievementLootLegend " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:AchievementGuardianAngel " : {
+      " templateId " : " HomebaseBannerIcon:AchievementGuardianAngel " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:AchievementGoGnome " : {
+      " templateId " : " HomebaseBannerIcon:AchievementGoGnome " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS16_Bicycle " : {
+      " templateId " : " HomebaseBannerIcon:BRS16_Bicycle " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS16_Temple " : {
+      " templateId " : " HomebaseBannerIcon:BRS16_Temple " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS16_Sentinel " : {
+      " templateId " : " HomebaseBannerIcon:BRS16_Sentinel " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS16_Obsidian " : {
+      " templateId " : " HomebaseBannerIcon:BRS16_Obsidian " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS16_DinoHunter " : {
+      " templateId " : " HomebaseBannerIcon:BRS16_DinoHunter " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS16_CubeNinja " : {
+      " templateId " : " HomebaseBannerIcon:BRS16_CubeNinja " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS16_ChickenWarrior " : {
+      " templateId " : " HomebaseBannerIcon:BRS16_ChickenWarrior " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS16_Alt_2 " : {
+      " templateId " : " HomebaseBannerIcon:BRS16_Alt_2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS16_Alt_1 " : {
+      " templateId " : " HomebaseBannerIcon:BRS16_Alt_1 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS16_AgentJonesy " : {
+      " templateId " : " HomebaseBannerIcon:BRS16_AgentJonesy " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS15_Valentines2021_3 " : {
+      " templateId " : " HomebaseBannerIcon:BRS15_Valentines2021_3 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS15_Valentines2021 " : {
+      " templateId " : " HomebaseBannerIcon:BRS15_Valentines2021 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS15_SpaceFighter " : {
+      " templateId " : " HomebaseBannerIcon:BRS15_SpaceFighter " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS15_Shapeshifter " : {
+      " templateId " : " HomebaseBannerIcon:BRS15_Shapeshifter " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS15_PSPlusPack2021 " : {
+      " templateId " : " HomebaseBannerIcon:BRS15_PSPlusPack2021 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS15_Nightmare " : {
+      " templateId " : " HomebaseBannerIcon:BRS15_Nightmare " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS15_Lexa " : {
+      " templateId " : " HomebaseBannerIcon:BRS15_Lexa " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS15_FutureSamurai " : {
+      " templateId " : " HomebaseBannerIcon:BRS15_FutureSamurai " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS15_FlapjackWrangler " : {
+      " templateId " : " HomebaseBannerIcon:BRS15_FlapjackWrangler " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS15_CosmosC " : {
+      " templateId " : " HomebaseBannerIcon:BRS15_CosmosC " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS15_CosmosB " : {
+      " templateId " : " HomebaseBannerIcon:BRS15_CosmosB " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS15_CosmosA " : {
+      " templateId " : " HomebaseBannerIcon:BRS15_CosmosA " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerIcon:BRS15_AncientGladiator " : {
+      " templateId " : " HomebaseBannerIcon:BRS15_AncientGladiator " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor1 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor1 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor2 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor2 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor3 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor3 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor4 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor4 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor5 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor5 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor6 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor6 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor7 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor7 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor8 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor8 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor9 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor9 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor10 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor10 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor11 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor11 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor12 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor12 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor13 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor13 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor14 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor14 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor15 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor15 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor16 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor16 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor17 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor17 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor18 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor18 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor19 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor19 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor20 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor20 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor21 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor21 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor22 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor22 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor23 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor23 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor24 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor24 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor25 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor25 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor26 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor26 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor27 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor27 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor28 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor28 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor29 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor29 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor30 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor30 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor31 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor31 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor32 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor32 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor33 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor33 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor34 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor34 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor35 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor35 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor36 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor36 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor37 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor37 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor38 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor38 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor39 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor39 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor40 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor40 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor41 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor41 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor42 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor42 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor43 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor43 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    },
+    " HomebaseBannerColor:DefaultColor44 " : {
+      " templateId " : " HomebaseBannerColor:DefaultColor44 " ,
+      " attributs " : {
+        " item_seen " : vrai
+      },
+      " quantité " : 1
+    }
+  },
+  " statistiques " : {
+    " attributs " : {
+      " mtx_affiliate " : " FORTNITE.DEV " ,
+      " current_mtx_platform " : " EpicPC " ,
+      " mtx_purchase_history " : {}
+    }
+  }
+}
